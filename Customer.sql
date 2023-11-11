@@ -1,0 +1,3 @@
+insert into customer(first_name, last_name, address, street, city, state, email, phone) values("Sakshi","Sharma","Hno1","Delhi","Delhi","Delhi","sam@gmail.com","12356");
+insert into customer(first_name, last_name, address, street, city, state, email, phone) values("Nikhil","Sharma","Hno3","Delhi","Delhi","Delhi","sNick@gmail.com","45754");
+insert into customer(first_name, last_name, address, street, city, state, email, phone) values("Jane","Doe","Hno2","Elvnu Street","Delhi","Delhi","sam@gmail.com","123456");
